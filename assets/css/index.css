@@ -1,0 +1,17 @@
+.login-popup {
+	height: 100%;
+	width: 100%;
+	background-color: #fa0;
+	text-align: center;
+}
+
+.login-popup a {
+	position: absolute;
+	top: 380px;
+	left: 45.5%;
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+	background-color: white;
+	border-radius: 2em;
+}

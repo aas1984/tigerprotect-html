@@ -1,6 +1,10 @@
 .mock-phone {
-  width: 414px;
-  height: 896px;
-  background-color: #f60;
-  margin: 0px auto;
+	width: 414px;
+	height: 896px;
+	background-color: #f60;
+	margin: 50px auto;
+}
+
+body {
+	background-color: #777;
 }

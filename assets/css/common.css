@@ -1,0 +1,16 @@
+.rit-logo {
+	height: 50px;
+	width: 325px;
+	background-color: whitesmoke;
+	margin: 0px auto;
+	display: block;
+	padding: 10px;
+}
+
+.interact {
+	background-color: whitesmoke;
+	margin: 50px auto;
+	display: block;
+	height: 80%;
+	width: 80%;
+}
